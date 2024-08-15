@@ -1,1 +1,1 @@
-# emoji-click-game
+# emoji-catcher-game
